@@ -29,14 +29,15 @@ Education
 
 Publications
 ------
-Jin, Y., Gao, M., Tang, J., Fan, W., Yang, Y., & An, J. (2024). MLAFormer: Multi-scale Transformer with Local Convolutional Auto-Correlation and Pre-training for Time Series Forecasting. Annals of Operations Research. (Under review).     
+● Jin, Y., Gao, M., Tang, J., Fan, W., Yang, Y., & An, J. (2024). MLAFormer: Multi-scale Transformer with Local Convolutional Auto-Correlation and Pre-training for Time Series Forecasting. Annals of Operations Research. (Under review).     
 
-Jin, Y., Yang, Y., & Ma, B. (2024). Dynamic Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction in Recommender Systems. Electronic Commerce Research. (Under review).       
+● Jin, Y., Yang, Y., & Ma, B. (2024). Dynamic Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction in Recommender Systems. Electronic Commerce Research. (Under review).       
 
-Jin, Y., & Yang, Y. (2024). A Survey on Knowledge Graph-Based Click-Through Rate Prediction. Expert Systems With Applications. (Under review).
-Yang, Y., Zhai P., & Jin, Y. (2024). Entity Recognition and Talent Profiles in Digital Industry based on BERT and BiGRU. Wuhan University (Natural Science Edition). (Under review).     
+● Jin, Y., & Yang, Y. (2024). A Survey on Knowledge Graph-Based Click-Through Rate Prediction. Expert Systems With Applications. (Under review).
 
-Jin, Y., Gao, M., & Yu, J. (2021). A Transformer Based Sales Prediction of Smart Container in New Retail Era. In Proceedings of the 2021 5th International Conference on Deep Learning Technologies (pp. 46-53).
+● Yang, Y., Zhai P., & Jin, Y. (2024). Entity Recognition and Talent Profiles in Digital Industry based on BERT and BiGRU. Wuhan University (Natural Science Edition). (Under review).     
+
+● Jin, Y., Gao, M., & Yu, J. (2021). A Transformer Based Sales Prediction of Smart Container in New Retail Era. In Proceedings of the 2021 5th International Conference on Deep Learning Technologies (pp. 46-53).
 
 
 
