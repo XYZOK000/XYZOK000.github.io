@@ -19,11 +19,13 @@ My research interest includes deep learning, time series forecasting, click-thro
 
 Education
 ======
-● Master of Management in Management Science and Engineering, Huazhong University of Science and Technology (Sep. 2022-Present)      
+● Huazhong University of Science and Technology (Sep. 2022-Present)      
+&nbsp;&nbsp;&nbsp;&nbsp;Master of Management in Management Science and Engineering
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 90.47/100, Wuhan, China
 
   
-● Bachelor of Management in Big Data Management and Application, Dongbei University of Finance and Economics (Sep. 2018-Jun. 2022)
+● Dongbei University of Finance and Economics (Sep. 2018-Jun. 2022)
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Big Data Management and Application
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 93.56/100 (1/30), Dalian, China
 
 
