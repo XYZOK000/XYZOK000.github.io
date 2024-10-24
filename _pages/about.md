@@ -45,7 +45,9 @@ Publications
 
 ● Jin, Y., & Yang, Y. (2024). A Survey on Knowledge Graph-Based Click-Through Rate Prediction. Expert Systems With Applications. (Under review).
 
-● Yang, Y., Zhai P., & Jin, Y. (2024). Entity Recognition and Talent Profiles in Digital Industry based on BERT and BiGRU. Wuhan University (Natural Science Edition). (Under review).     
+● Yang, L., Gao, M., Jin, Y., et al. (2024). MPCformer: Multi-scale Patch Transformer and Channel Cross for Long-term Multivariate Time Series Forecasting. Transactions on Pattern Analysis and Machine Intelligence. (Under review).
+
+● Yang, Y., Zhai P., & Jin, Y. (2024). Entity Recognition and Talent Profiles in Digital Industry based on BERT and BiGRU. Wuhan University (Natural Science Edition).
 
 ● Jin, Y., Gao, M., & Yu, J. (2021). A Transformer Based Sales Prediction of Smart Container in New Retail Era. In Proceedings of the 2021 5th International Conference on Deep Learning Technologies (pp. 46-53).
 
