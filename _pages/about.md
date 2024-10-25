@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently pursuing a Master’s degree in Management Science and Engineering at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). 
 
-You can find my CV here: [Ying Jin's Curriculum Vitae](../assets/Resume.pdf).
+You can find my CV here: [Ying Jin's Curriculum Vitae](../assets/Resume_YingJin.pdf).
 
 
 
