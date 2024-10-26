@@ -41,7 +41,7 @@ Publications
 ------
 ● Jin, Y., Gao, M., Tang, J., Fan, W., Yang, Y., & An, J. (2024). MLAFormer: Multi-scale Transformer with Local Convolutional Auto-Correlation and Pre-training for Time Series Forecasting. Annals of Operations Research. (Under review).     
 
-● Jin, Y., Yang, Y., & Ma, B. (2024). Dynamic Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction in Recommender Systems. Electronic Commerce Research. (Under review).       
+● Jin, Y., Yang, Y., & Ma, B. (2024). Dynamic Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction in Recommender Systems. Electronic Commerce Research. (Under second review).       
 
 ● Jin, Y., & Yang, Y. (2024). A Survey on Knowledge Graph-Based Click-Through Rate Prediction. Expert Systems With Applications. (Under review).
 
