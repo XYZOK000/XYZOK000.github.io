@@ -39,13 +39,13 @@ Education
 
 Publications
 ------
-● Jin, Y., Gao, M., Tang, J., Fan, W., Yang, Y., & An, J. (2024). [MLAFormer: Multi-scale Transformer with Local Convolutional Auto-Correlation and Pre-training for Time Series Forecasting](../assets/Manuscript_0614.pdf). Annals of Operations Research. (Under review).     
+● Jin, Y., Gao, M., Tang, J., Fan, W., Yang, Y., & An, J. (2024). [MLAFormer: Multi-scale Transformer with Local Convolutional Auto-Correlation and Pre-training for Time Series Forecasting](../assets/MLAFormer_240627.pdf). Annals of Operations Research. (Under review).     
 
-● Jin, Y., Yang, Y., & Ma, B. (2024). Dynamic Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction in Recommender Systems. Electronic Commerce Research. (Under second review).       
+● Jin, Y., Yang, Y., & Ma, B. (2024). [Dynamic Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction in Recommender Systems].(../assets/Manuscript_0614.pdf). Electronic Commerce Research. (Under second review).       
 
-● Jin, Y., & Yang, Y. (2024). A Survey on Knowledge Graph-Based Click-Through Rate Prediction. Expert Systems With Applications. (Under review).
+● Jin, Y., & Yang, Y. (2024). [A Survey on Knowledge Graph-Based Click-Through Rate Prediction].(../assets/Paper&Appendix.pdf). Expert Systems With Applications. (Under review).
 
-● Yang, L., Gao, M., Jin, Y., et al. (2024). MPCformer: Multi-scale Patch Transformer and Channel Cross for Long-term Multivariate Time Series Forecasting. Transactions on Pattern Analysis and Machine Intelligence. (Under review).
+● Yang, L., Gao, M., Jin, Y., et al. (2024). [MPCformer: Multi-scale Patch Transformer and Channel Cross for Long-term Multivariate Time Series Forecasting].(../assets/TPAMI-2024-03-0517_Proof_hi.pdf). Transactions on Pattern Analysis and Machine Intelligence. (Under review).
 
 ● Yang, Y., Zhai P., & Jin, Y. (2024). Entity Recognition and Talent Profiles in Digital Industry based on BERT and BiGRU. Wuhan University (Natural Science Edition).
 
