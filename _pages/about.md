@@ -32,7 +32,7 @@ Education
 
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Big Data Management and Application        
 
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 93.56/100 (1/30)
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 93.46/100 (1/30)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Dalian, China
 
