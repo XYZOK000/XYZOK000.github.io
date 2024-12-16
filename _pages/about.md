@@ -38,7 +38,7 @@ Education
 
 
 Publications
-------
+======
 ● **Jin, Y.**, Gao, M., Tang, J., Fan, W., Yang, Y., & An, J. (2024). [MLAFormer: Multi-scale Transformer with Local Convolutional Auto-Correlation and Pre-training for Time Series Forecasting](../assets/MLAFormer_240627.pdf). Annals of Operations Research. (Under review).     
 
 ● **Jin, Y.**, Yang, Y., & Ma, B. (2024). [Dynamic Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction in Recommender Systems](../assets/Manuscript_0614.pdf). Electronic Commerce Research. (Under second review).       
@@ -57,5 +57,5 @@ Publications
 
 
 Misc
-------
+======
 I come from a loving and happy family. My mother is hardworking and understanding, my father is humorous and wise, and my sister is lively and adorable. I deeply love my family.
