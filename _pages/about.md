@@ -15,7 +15,7 @@ You can find my CV here: [Ying Jin's Curriculum Vitae](../assets/Resume_YingJin.
 
 Research Interest
 ======
-My research interest includes deep learning, time series forecasting, click-through rate (CTR) prediction in recommender systems and knowledge graphs.
+My research interest includes deep learning, Transformer-based time series forecasting, click-through rate (CTR) prediction in recommender systems, entity recognition and knowledge graphs.
 
 Education
 ======
