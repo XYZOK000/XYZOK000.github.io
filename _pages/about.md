@@ -47,7 +47,7 @@ Publications
 
 ● Yang, L., Gao, M., **Jin, Y.**, et al. (2024). [MPCformer: Multi-scale Patch Transformer and Channel Cross for Long-term Multivariate Time Series Forecasting](../assets/TPAMI-2024-03-0517_Proof_hi.pdf). Transactions on Pattern Analysis and Machine Intelligence. (Under review).
 
-● Yang, Y., Zhai P., & **Jin, Y**. (2024). Entity Recognition and Talent Profiles in Digital Industry based on BERT and BiGRU. Wuhan University (Natural Science Edition).
+● Yang, Y., Zhai P., & **Jin, Y**. (2024). [Entity Recognition and Talent Profiles in Digital Industry based on BERT and BiGRU](../assets/Wuhan University.pdf). Wuhan University (Natural Science Edition).
 
 ● **Jin, Y.**, & Yang, Y. (2023). DH-GCN: Dynamical Heterogeneous Graph Convolutional Networks for Click-Through Rate Prediction. In 2023 INFORMS Workshop on Data Science, Phoenix, AZ, United States.
 
